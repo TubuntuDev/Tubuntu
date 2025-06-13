@@ -1,2 +1,2 @@
 # Tubuntu
-Repository for upcoming OS
+OS that will run in every PC 
